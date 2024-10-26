@@ -1,6 +1,4 @@
-# Project Name
-
-Brief description of the project.
+# DYN_QU_ASSESSMENT
 
 ## Prerequisites
 
